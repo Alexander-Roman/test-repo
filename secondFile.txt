@@ -1,5 +1,5 @@
-line 1
-line 2
+line 1 up-to-date
+line 2 up-to-date
 line 3
 line 4
 line 5
